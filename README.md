@@ -2,15 +2,13 @@
 
 ## Development
 
-### Repository access (preferably ssh)
-
 - clone the repo
 
 ```bash
 git clone git@github.com:axtck/madhouse-app.git
 ```
 
-- install node modules & co
+- install dependencies
 
 ```bash
 npm i
